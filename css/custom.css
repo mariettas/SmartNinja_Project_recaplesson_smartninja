@@ -1,0 +1,8 @@
+.backgroundContent {
+    background-image: url("../img/crocus.jpg");
+}
+
+body {
+    background-image: url("../img/crocus.jpg");
+    color: white;
+}
